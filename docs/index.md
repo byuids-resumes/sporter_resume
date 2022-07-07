@@ -21,12 +21,6 @@ __Brigham Young University Idaho__, Rexburg, ID
 
 - 3.7 GPA
 
-`Expected 2022`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 3.7 Major GPA
-
-
 ## Related Experience
 
 ### Internships
