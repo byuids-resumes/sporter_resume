@@ -3,7 +3,7 @@ layout: cv
 title: Sariah Porter's Resume
 ---
 # Sariah Porter
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+Student at Brigham Young University Idaho majoring in Business Analytics.
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -25,47 +25,35 @@ __Brigham Young University Idaho__, Rexburg, ID
 
 ### Internships
 
+`January 2022 - April 2022`
+__Research and Business Development Center__, Rexburg, ID
+
+- Collaborated with team members to solve problems for two different businesses
+- Managed time, implemented strategies, and organized materials to more help other team members
+
 `September 2021 - March 2022`
-__The Athletic Academy__, Richland, WA
+__The Athletic Academy__, Peoria, IL
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Analyzed and developed a process for data accuracy, decreasing defects by 15%
+- Researched and implemented a standardized system for future use
 
-### Data Science Lead
+### Work History
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`September 2021 - Present`
+__Brigham Young University Idaho__, Teaching Assistant - Business Analytics
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Graded students and provided feedback and guidance to 80+ students
+- Performed regular data entry tasks on student grades in a timely manner
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+`May 2016 - December 2021`
+__Stokes Marketplace__, Cashier - Early Morning Freight Crew
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+- Trained new employees with self-developed training process on procedures and protocols raising productivity by 12%
+- Obtained 19% pay raises and increased hours resulting from hard work ethic, reliability, and punctuality
+- Addressed customers' needs and requests promptly and accurately raising overall customer satisfaction
+- Built relationships with coworkers and customers resulting from effective communication and trust
 
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
+## Service History
 
 `2025-2027`
 __Math Tutor__, LDSBC
