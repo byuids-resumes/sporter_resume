@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Sariah Porter's Resume
 ---
-# Brigham Young
+# Sariah Porter
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
@@ -16,23 +16,23 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2017-2022`
+__Brigham Young University Idaho__, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
+- 3.7 GPA
 
-`Expected 2029`
+`Expected 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.7 Major GPA
 
 
 ## Related Experience
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`September 2021 - March 2022`
+__The Athletic Academy__, Richland, WA
 
 - Worked on novel methods for soil sampling to reduce laboratory measurements
 - Used R and Visual Sample Plan to establish new sampling algorithms
