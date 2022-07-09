@@ -55,12 +55,12 @@ __Stokes Marketplace__, Cashier - Early Morning Freight Crew
 
 ## Service History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2013-2021`
+__Rotary Club Volunteer__, Preston, ID
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2017-2018`
+__Service Missionary__, Dominican Republic
 
 
 
